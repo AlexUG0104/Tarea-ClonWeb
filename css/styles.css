@@ -7,15 +7,13 @@
   --color-dark: #111111;
   --color-purple: #725cff;
   --color-red: #ff5a5f;
-  --color-yellow: #f6b500;
+  --color-yellow: #f8bd1d;
   --color-green: #31c36b;
   --shadow-soft: 0 8px 24px rgba(0, 0, 0, 0.08);
   --radius: 14px;
   --container: 1120px;
 }
 
-/* Este selector de elemento define la base general.
-   Luego las clases específicas ajustan estilos sin usar inline ni !important. */
 * {
   box-sizing: border-box;
   margin: 0;

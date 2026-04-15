@@ -18,3 +18,8 @@ Este proyecto replica un diseño web usando CSS Grid y Flexbox.
 
 ##  Responsive
 El diseño se adapta a móvil y escritorio.
+
+## Link de Repositorio 
+![Resultado](https://github.com/AlexUG0104/tarea1-clon-web.git)
+
+
